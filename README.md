@@ -18,10 +18,7 @@ It has 6 tasks~<br/>
   &emsp; f. Prediction Task(Using Machine Learning Model)_<br/>
 <br/>
 <br/>
-**My Experience and Learnings**<br/>
-Coded in python language and Google Collab.<br/>
-Learned usage of various python modules Numpy, Pandas, Plotly, csv and sklearn.<br/>
-- - - -
+
 **Data Collection**
 <br/>
 The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/ <br/>
@@ -66,3 +63,9 @@ From statistics, we have created a hypothetical statement. Try to prove it by cr
   - Logistic Regression<br/>
 
 - - - -
+**My Experience and Learnings**<br/>
+Coded in python language and Google Collab.<br/>
+Learned usage of various python modules Numpy, Pandas, Plotly, csv and sklearn.<br/>
+- - - -
+**Problems faced**<br/>
+- Many Classifiers needed both numbers as input and output. So using Attribute “Location” possess a problem.<br/> **Solution**:<br/>
