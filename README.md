@@ -25,11 +25,11 @@ The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/ 
 Information about usage of various Classifiers is taken from http://www.Datacamp.org <br/>
 - - - -
 
-[**Data Preprocessing and Cleaning**](https://github.com/jatin00000/Forecasting-the-various-Populations-of-Countries/blob/main/Source_code/Data_Preprocessing.ipynb) <br/>
-
+**Data Preprocessing and Cleaning**<br/>
 - Taking only medium variant of Population in consideration<br/>
 - Removing column varID, variant and MidPeriod<br/>
 - We used built-in train_test_split in 70/30 split as it provide good accuracy.<br/>
+- [Source_Code_link](https://github.com/jatin00000/Forecasting-the-various-Populations-of-Countries/blob/main/Source_code/Data_Preprocessing.ipynb) <br/>
 - - - -
 
 **Data Visualization** <br/>
