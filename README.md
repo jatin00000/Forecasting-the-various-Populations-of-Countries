@@ -23,10 +23,14 @@ The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/
 <br/>
 <br/>
 ## Data Preprocessing and Cleaning
--Taking only medium variant of Population in consideration
--Removing column varID, variant and MidPeriod
--We used built-in train_test_split in 70/30 split as it provide good accuracy.
+-Taking only medium variant of Population in consideration<br/>
+-Removing column varID, variant and MidPeriod<br/>
+-We used built-in train_test_split in 70/30 split as it provide good accuracy.<br/>
 <br/>
 <br/>
+## Data Visualization
+-To select one attribute out of four<br/> - Male Population<br/> - Female Population<br/> - Total Population<br/> - Population Density<br/> for hypothetical testing
+-Plotted scatter Plot of all 4 attributes for 10 different countries<br/>
+-Also calculated R^2 for each case using Plotly<br/>
 
 
