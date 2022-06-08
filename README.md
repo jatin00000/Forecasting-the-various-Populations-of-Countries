@@ -28,7 +28,7 @@ The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/
 - We used built-in train_test_split in 70/30 split as it provide good accuracy.<br/>
 <br/>
 <br/>
-# Data Visualization
+# Data Visualization <br/>
 - Plotted scatter Plot of all 4 attributes for 10 different countries<br/>
 - Also calculated R^2 for each case using Plotly<br/>
 - To select one attribute out of four attributes for hypothetical testing<br/> 
