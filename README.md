@@ -52,11 +52,12 @@ From statistics, we have created a hypothetical statement. Try to prove it by cr
 
 **Prediction Task(Using Machine Learning Model)**
 <br/>
-- Compared accuracy of various classifiers and selected one for making model
-- Created a model using various Classifiers<br/>
- - Decision Tree Classification<br/>
- - Random Forest Classification<br/>
- - Support Vector Machines(SVM)
- - Logistic Regression<br/>
+- Compared accuracy of various classifiers and selected one for making model.
 - Experimentally, Our model proves our Hypothetical statement which is based on using “Total Population” as an attribute to make our model Wrong.<br/>
+- Created a model using various Classifiers<br/>
+  - Decision Tree Classification<br/>
+  - Random Forest Classification<br/>
+  - Support Vector Machines(SVM)
+  - Logistic Regression<br/>
+
 - - - -
