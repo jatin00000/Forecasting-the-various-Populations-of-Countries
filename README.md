@@ -16,12 +16,17 @@ It has 6 tasks~<br/>
   &emsp; d. Data Statistics(Summary of statistics)<br/>
   &emsp; e. Hypothesis Testing<br/>
   &emsp; f. Prediction Task(Using Machine Learning Model)_<br/>
-
+<br/>
+<br/>
 ## Data Collection
 The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/
-
+<br/>
+<br/>
 ## Data Preprocessing and Cleaning
-Taking only medium variant of Population in consideration
-Removing column varID, variant and MidPeriod
-We used built-in train_test_split in 70/30 split as it provide good accuracy.
+-Taking only medium variant of Population in consideration
+-Removing column varID, variant and MidPeriod
+-We used built-in train_test_split in 70/30 split as it provide good accuracy.
+<br/>
+<br/>
+
 
