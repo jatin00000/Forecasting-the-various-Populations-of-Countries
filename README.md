@@ -1,6 +1,6 @@
 # **Forecasting-the-various-Populations-of-Countries**
 **Data Science Project** <br/>
-_Extracted Population data from United Nation website. Data set contains information about various type of population of various countries of World from 1950 to 2019, with many null values. Using various algorithms (Decision Tree, Random Forest, SVM etc.) to see which one best fits the data most accurately. Explored the data, and provided insights and forecasts about population for various countries._<br/>
+_Extracted Population data from United Nation website. Data set contains information about various type of population of various countries of World from 1950 to 2019, with many null values. Using various algorithms (Decision Tree, Random Forest, SVM etc.) to see which one best fits the data most accurately. Explored the data, and provided insights and forecasts about population for various countries._<br/> <br/> <br/>
 My Team Members~<br/>
 &emsp;- Abhay Panwar<br/>
 &emsp;- Chetan Kumar<br/>
