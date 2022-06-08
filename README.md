@@ -28,7 +28,7 @@ The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/
 - We used built-in train_test_split in 70/30 split as it provide good accuracy.<br/>
 <br/>
 <br/>
-## Data Visualization ##
+### Data Visualization ###
 - Plotted scatter Plot of all 4 attributes for 10 different countries<br/>
 - Also calculated R^2 for each case using Plotly<br/>
 - To select one attribute out of four attributes for hypothetical testing<br/> 
@@ -38,7 +38,7 @@ The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/
   - Population Density<br/>
 <br/>
 <br/>
-## Data Statistics ##
+### Data Statistics ###
 - Select one attribute from four to make a model for Prediction by making observations from graphs plotted during visualization.<br/>
 - Through statistics, find out the names of countries Possible whose total population will be in the range 5000 to 15000 in 2011.<br/>
 <br/>
