@@ -56,7 +56,7 @@ From statistics, we have created a hypothetical statement. Try to prove it by cr
 <br/>
 - Compared accuracy of various classifiers and selected one for making model.
 - Experimentally, Our model proves our Hypothetical statement which is based on using “Total Population” as an attribute to make our model Wrong.<br/>
-- Created a model using various Classifiers<br/>
+- Created a model using various algorithm<br/>
   - Decision Tree Classification<br/>
   - Random Forest Classification<br/>
   - Support Vector Machines(SVM)
@@ -68,4 +68,7 @@ Coded in python language and Google Collab.<br/>
 Learned usage of various python modules Numpy, Pandas, Plotly, csv and sklearn.<br/>
 - - - -
 **Problems faced**<br/>
-- Many Classifiers needed both numbers as input and output. So using Attribute “Location” possess a problem.<br/> **Solution**:<br/>
+- Many Classifiers needed both numbers as input and output. So using Attribute “Location” possess a problem.<br/> **Solution**:<br/> Instead attribute “LocID” is used along with other numeric type attributes.<br/>
+- Void or NULL values created problem during Pre-processing.<br/> **Solution**:<br/> dropna() method of Pandas Python which removed null values.<br/>
+- - - -
+
