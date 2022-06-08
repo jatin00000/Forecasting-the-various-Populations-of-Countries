@@ -30,10 +30,10 @@ The data is extracted from https://population.un.org/wpp/Download/Standard/CSV/
 <br/>
 ## Data Visualization
 -To select one attribute out of four<br/> 
- - Male Population<br/> 
- - Female Population<br/> 
- - Total Population<br/> -
- - Population Density<br/> for hypothetical testing<br/>
+  - Male Population<br/> 
+  - Female Population<br/> 
+  - Total Population<br/> -
+  - Population Density<br/>for hypothetical testing<br/>
 -Plotted scatter Plot of all 4 attributes for 10 different countries<br/>
 -Also calculated R^2 for each case using Plotly<br/>
 
